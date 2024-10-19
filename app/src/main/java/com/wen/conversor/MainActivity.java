@@ -1,5 +1,8 @@
 package com.wen.conversor;
-
+/*
+ *@author: Wendell Valim Mendes
+ * @ra: 1110482413005
+ */
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
